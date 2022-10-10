@@ -1,1 +1,2 @@
 # Take_out_system
+本项目是专门为餐饮企业定制的一款软件产品，包括系统管理后台和移动端应用两部分。总体基于SpringBoot + MybatisPlus进行开发，使用MySQL数据库进行数据存储，使用Redis进行项目优化，使用git和maven进行版本控制和项目管理。
